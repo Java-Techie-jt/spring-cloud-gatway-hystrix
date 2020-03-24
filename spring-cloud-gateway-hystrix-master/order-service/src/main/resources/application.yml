@@ -1,0 +1,6 @@
+server:
+  port: 9192
+spring:
+  h2:
+    console:
+      enabled: true
