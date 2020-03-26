@@ -45,7 +45,7 @@ Json Response :
     "paymentId": 1,
     "transactionId": "d86cfeca-0b26-455e-a1a2-ac3e53707829",
     "orderId": 103,
-    "paymentStatus": "SUCCESS"
+    "paymentStatus": "SUCCESS",
     "amount":4000
 }
 ```
