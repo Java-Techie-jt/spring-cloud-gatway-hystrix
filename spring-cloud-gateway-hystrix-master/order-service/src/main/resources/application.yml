@@ -6,4 +6,7 @@ spring:
       enabled: true
   application:
     name: ORDER-SERVICE
+    
+logging:
+  file : C:/users/basan/Desktop/logs/microservice.log
 
